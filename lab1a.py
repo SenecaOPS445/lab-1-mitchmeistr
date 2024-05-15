@@ -7,4 +7,4 @@ Program Name: lab1a.py
 Date: 2024-05-14
 Description: This program will output "hello world" to the screen.
 '''
-print("Hello World")
+print('Hello world')
